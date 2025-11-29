@@ -1,0 +1,19 @@
+Customer Churn Prediction + Retention Dashboard (Power BI + ML)
+
+This project predicts customer churn for a telecom company and provides a Power BI dashboard for visualizing churn risk 
+and retention strategies. By combining machine learning with interactive dashboards, it enables businesses to identify high-risk customers, optimize retention campaigns, and reduce revenue loss due to churn.
+
+The project includes a complete ML pipeline that handles data preprocessing, trains an XGBoost classifier, evaluates performance, 
+and exports predictions in a format ready for Power BI visualization. This empowers business users to make data-driven decisions efficiently.
+
+
+Requirements :
+
+The project requires the following tools and libraries:
+Python 3.12
+Pandas – Data manipulation
+NumPy – Numerical computations
+Scikit-learn – Preprocessing, pipeline, and evaluation
+XGBoost – Churn prediction classifier
+Joblib – Model persistence
+Power BI Desktop – Dashboard visualization

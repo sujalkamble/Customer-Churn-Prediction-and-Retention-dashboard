@@ -1,0 +1,27 @@
+ProgrammingLanguage
+Python 3.12 
+
+
+Libraries / frameworks:
+Pandas
+NumPy
+Scikit-learn
+XGBoost
+Joblib
+PyYaml - Read configuration files
+
+
+Data Visualization / Dashboard
+Power BI Desktop - Latest version (for building interactive dashboards)
+
+
+Development Tools
+VS Code - Recommended for Python development
+PyCharm - Optional IDE alternative
+Jupyter Notebook / JupyterLab - Recommended for exploratory data analysis
+
+
+System Requirements
+Operating System: Windows 10+, Linux, or macOS
+RAM: 8GB minimum (16GB recommended for large datasets)
+Storage: At least 2GB free for project files and dependencies
